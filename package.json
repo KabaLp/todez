@@ -1,0 +1,16 @@
+{
+  "name": "todez",
+  "version": "0.2.0",
+  "description": "Convert hex number to dezimal byte style array.",
+  "bin": {
+    "todez" : "todez.js"
+  },
+  "author": "LP",
+  "license": "MIT",
+  "keywords" : [
+    "hex",
+    "decimal",
+    "convert",
+    "byte"
+  ]
+}
