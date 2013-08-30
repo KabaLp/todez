@@ -6,6 +6,10 @@
     "todez" : "todez.js"
   },
   "author": "LP",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KabaLp/todez.git"
+  },
   "license": "MIT",
   "keywords" : [
     "hex",
