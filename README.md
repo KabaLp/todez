@@ -1,3 +1,8 @@
+Installation
+------------
+
+        $ npm install -g todez
+
 Usage
 -----
 
@@ -17,4 +22,6 @@ separated by a comma
 Example
 -------
 
-1016FF00 ==> 16,22,255,0
+        $ todez 1016FF00
+
+        16,22,255,0
