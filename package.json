@@ -1,6 +1,6 @@
 {
   "name": "todez",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "description": "Convert hex number to dezimal byte style array.",
   "bin": {
     "todez" : "todez.js"

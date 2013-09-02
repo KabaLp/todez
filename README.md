@@ -10,7 +10,7 @@ console application to
 convert  
 a string that represents byte values in a hexadecimal way  
 to  
-a string that shows each byte value as a dezimal number  
+a string that shows each byte value as a decimal number  
 separated by a comma
 
 
